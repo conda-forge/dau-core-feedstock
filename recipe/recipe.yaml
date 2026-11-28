@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.14.0"
+  version: "0.15.0"
 
 package:
   name: dau-core
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/dau-core/dau_core-${{ version }}.tar.gz
-  sha256: 41ecfb6a8868bf7757ad9e453b55983b2d932e305b8ce575909e6f6a012dea08
+  sha256: c42106074035f88f6e1713df0eb6908abcef14e8a6ded5e6f245ea551838a199
 
 build:
   number: 0
